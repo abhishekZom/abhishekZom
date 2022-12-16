@@ -46,5 +46,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true)
 
-  [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats?theme=radical&count_private=true&hide=stars,issues)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats?theme=radical&count_private=true)
+  [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekZom)](https://github.com/abhishekZom/github-readme-stats?theme=radical&count_private=true&hide=stars,issues)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekZom)](https://github.com/abhishekZom/github-readme-stats?theme=radical&count_private=true)
