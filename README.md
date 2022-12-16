@@ -15,9 +15,6 @@
 
 [![website](./img/globe-light.svg)](https://medium.com/@ryaan_web#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://medium.com/@ryaan_web#gh-dark-mode-only)
-<!-- &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/aon_edm#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/aon_edm#gh-dark-mode-only)
