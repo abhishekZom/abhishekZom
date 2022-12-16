@@ -44,7 +44,7 @@
 <br />
 <br />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekZom&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekZom&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekZom&theme=radical&count_private=true)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekZom&theme=radical&count_private=true)
