@@ -44,7 +44,9 @@
 <br />
 <br />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=dark&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true)
 
-  [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekZom)](https://github.com/abhishekZom/github-readme-stats?theme=dark&count_private=true&hide=stars,issues)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekZom)](https://github.com/abhishekZom/github-readme-stats?theme=dark&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekZom&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekZom&theme=github_dark)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekZom&theme=gruvbox&title=Commits,PR,MultiLanguage,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
