@@ -80,10 +80,10 @@
 <br/>
 
  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekZom&layout=compact&hide=html&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekZom&layout=compact&theme=dracula"/>
  
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AbhishekZom&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AbhishekZom&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars"/>
   </P><br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true)
