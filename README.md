@@ -88,6 +88,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekZom&theme=github_dark)
-
   [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekZom&theme=gruvbox&title=Commits,PR,MultiLanguage,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
