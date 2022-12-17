@@ -84,8 +84,8 @@
  
   
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AbhishekZom&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars"/>
-  </P><br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true)
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekZom&theme=gruvbox&title=Commits,PR,MultiLanguage,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+  </P><br>
