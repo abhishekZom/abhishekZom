@@ -76,7 +76,7 @@
 
 <br/>
 
- <p align="center">
+ <p align="left">
   
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekZom&layout=compact&theme=dracula"/>
   <img height="150" src="https://github-profile-trophy.vercel.app/?username=abhishekZom&theme=dracula&title=Commits,PR,MultiLanguage,Repositories"/>
