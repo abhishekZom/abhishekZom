@@ -22,8 +22,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abhishek-kumar-b69a8290/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abhishek-kumar-b69a8290/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/aon_edm/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/aon_edm/#gh-dark-mode-only)
 
 <br/>
 
