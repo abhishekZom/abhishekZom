@@ -77,7 +77,7 @@
 
  <p align="left">
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekZom&layout=compact&theme=github_dark"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekZom&layout=compact"/>
 <!--   <img height="150" src="https://github-profile-trophy.vercel.app/?username=abhishekZom&theme=gruvbox&title=Commits,PR,MultiLanguage,Repositories"/> -->
   
 <!--   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=dracula&count_private=true) -->
