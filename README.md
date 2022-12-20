@@ -84,6 +84,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekZom&layout=compact&theme=github_dark"/>
   <img height="150" src="https://github-profile-trophy.vercel.app/?username=abhishekZom&theme=gruvbox&title=Commits,PR,MultiLanguage,Repositories"/>
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true)
+<!--   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekZom&theme=github_dark&count_private=true) -->
   
   </P><br>
