@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Abhishek
-### 📫 I am a Frontend dev/architect and a Musician!!
+### Hi there 👋,
+### 📫 I am a f rontend dev/architect and a Musician!!
 
 - 🔭 I’m currently working on a multiband, cross platform stereo effects(VST Plugins) bundle for musicians
 - 🌱 I’m currently learning JUCE and advanced web APIs
