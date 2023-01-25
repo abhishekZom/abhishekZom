@@ -1,5 +1,5 @@
 ### Hi there 👋,
-### 📫 I am a f rontend dev/architect and a Musician!!
+### 📫 I am a frontend dev/architect and Javascipt enthusiast!!
 
 - 🔭 I’m currently working on a multiband, cross platform stereo effects(VST Plugins) bundle for musicians
 - 🌱 I’m currently learning JUCE and advanced web APIs
