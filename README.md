@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anything that has the words REACT or JUCE in them
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Frontend architectures
-- 📫 How to reach me: https://twitter.com/aon_edm
+- 📫 How to reach me: https://twitter.com/zoman_tech
 - ⚡ Fun fact: I like writing code, producing music and writing code that produces music
 
 
