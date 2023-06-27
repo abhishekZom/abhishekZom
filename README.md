@@ -1,10 +1,9 @@
 ### Hi there 👋,
-### 📫 I am a frontend dev/architect and Javascipt enthusiast!!
+### 📫 I am a software Engineer. I love Javascript!
 
 - 🔭 I’m currently working on a multiband, cross platform stereo effects(VST Plugins) bundle for musicians
 - 🌱 I’m currently learning JUCE and advanced web APIs
-- 👯 I’m looking to collaborate on anything that has the words REACT or JUCE in them
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with audio processor wrappers for web and sass to streamline outreach on professional platforms like Twitter and linkedIn.
 - 💬 Ask me about Frontend architectures
 - 📫 How to reach me: https://twitter.com/zoman_tech
 - ⚡ Fun fact: I like writing code, producing music and writing code that produces music
