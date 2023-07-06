@@ -1,14 +1,12 @@
 ### Hi there 👋,
-### 📫 I am a software Engineer. I love Javascript! https://abhishekzom.github.io/TheSentientCoder/
+### 📫 I am a software Engineer
 
-- 🔭 I’m currently working on a multiband, cross platform stereo effects(VST Plugins) bundle for musicians
-- 🌱 I’m currently learning JUCE and advanced web APIs
-- 🤔 I’m looking for help with audio processor wrappers for web and sass to streamline outreach on professional platforms like Twitter and linkedIn.
-- 💬 Ask me about Frontend architectures
+- 🔭 I’m currently working on a multiband dynamic compressor and vst effects plugin suite.
+- 🌱 I’m currently learning JUCE, advanced web APIs and advanced web architectures.
+- 🤔 I’m looking for help with audio processor wrappers for web and on a SASS to streamline outreach on professional platforms like LinkedIn and even Twitter.
+- 💬 Ask me about web, frontend and audio
 - 📫 How to reach me: https://twitter.com/zoman_tech
-- ⚡ Fun fact: I like writing code, producing music and writing code that produces music
-
-
+- ⚡ Fun fact: I like writing code, writing code that optimizes writing code, producing music and writing code that optimizes producing music.
 
 ### 💬 Connect with me:
 
@@ -32,8 +30,10 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
   ![Php](https://img.shields.io/badge/php-%2300599C.svg?style=flat&logo=php&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-%23027d9c.svg?style=flat&logo=Go&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - ### Frameworks
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
